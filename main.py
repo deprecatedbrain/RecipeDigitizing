@@ -5,7 +5,7 @@ import re
 from ollama import chat, ChatResponse, GenerateResponse, Client
 
 client = Client(
-    host = "http://192.168.68.84:11434"
+    host = "http://localhost:11434"
 )
 
 to_process_path = r"To Process"
