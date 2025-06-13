@@ -1,0 +1,1 @@
+Uses Ollama and any vision LLM model to process images of recipes and export them as JSON files in bulk. I tried to use an OCR program but most weren't able to understand sloppy handwriting and stained papers in my recipes like an LLM could.
